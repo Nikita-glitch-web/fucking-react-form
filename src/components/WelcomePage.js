@@ -32,7 +32,7 @@ function Welcome(props) {
       <div className={style.text_wrapper}>
         <h1 className={style.title}>Welcome</h1>
         <p className={style.sub_text}>
-          Lorem ipsum dolor sit amet, <br />
+          Lorem isum dolor sit amet, <br />
           consectetur adipiscing elit, sed
           <br /> do eiusmod
         </p>
