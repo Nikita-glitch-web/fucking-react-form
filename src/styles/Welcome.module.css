@@ -1,5 +1,5 @@
 .page_wrapper {
-    border-radius: 30px;
+    border-radius: 31px;
     background: #050522;
     box-shadow: 0px 0px 50px 5px rgba(6, 6, 34, 0.40);
     width: 375px;
@@ -13,6 +13,7 @@
 
 .text_wrapper {
     text-align: center;
+
 }
 
 .title {
