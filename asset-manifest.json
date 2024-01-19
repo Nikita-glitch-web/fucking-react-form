@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fucking-react-form/static/css/main.ec0f43e5.css",
+    "main.js": "/fucking-react-form/static/js/main.3cbcf7a9.js",
+    "static/media/main_page_img.png": "/fucking-react-form/static/media/main_page_img.e402f73bcb4384c5a0cb.png",
+    "index.html": "/fucking-react-form/index.html",
+    "main.ec0f43e5.css.map": "/fucking-react-form/static/css/main.ec0f43e5.css.map",
+    "main.3cbcf7a9.js.map": "/fucking-react-form/static/js/main.3cbcf7a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec0f43e5.css",
+    "static/js/main.3cbcf7a9.js"
+  ]
+}
